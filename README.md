@@ -3,8 +3,12 @@
 MorphyNet is a large-scale, high-quality multilingual database of derivational and inflectional morphology. Currently, MorphyNet contains 13.5M inflectional and 696K derivational instances of 15 languages. Most importantly, we have morpheme segmentations.   
 
 ## Inflectional morphology:
-Symbols are described in the paper: "A Language-Independent Feature Schema for Inflectional Morphology" by
+Symbols are described in the following papers:
+
+"A Language-Independent Feature Schema for Inflectional Morphology" by
 John Sylak-Glassman, Christo Kirov, David Yarowsky, Roger Que
+"The Composition and Use of the Universal Morphological Feature
+Schema (UniMorph Schema)" by  John Sylak-Glassman
 
 |language| lemma |	inflected form |  morphological features | morpheme segmentation|
 | --- | --- |	--- | --- | --- |

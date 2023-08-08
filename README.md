@@ -7,6 +7,7 @@ Symbols are described in the following papers:
 
 "A Language-Independent Feature Schema for Inflectional Morphology" by
 John Sylak-Glassman, Christo Kirov, David Yarowsky, Roger Que
+
 "The Composition and Use of the Universal Morphological Feature
 Schema (UniMorph Schema)" by  John Sylak-Glassman
 
